@@ -1,4 +1,4 @@
-# alpha-test
+# eqv-test
 
 Я не использовал паттерны Page Object Model, Page Element Model и другие просто потому, что они здесь не нужны и избыточны
 
